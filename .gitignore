@@ -1,0 +1,35 @@
+# Environnement virtuel
+.venv/
+venv/
+env/
+
+# Fichiers Python compilés
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Fichiers de build / packaging
+build/
+dist/
+*.egg-info/
+
+# Logs
+*.log
+
+# Fichiers de configuration locaux
+.env
+
+# Cache de tests
+.pytest_cache/
+.coverage
+htmlcov/
+
+# IDE / éditeurs
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
